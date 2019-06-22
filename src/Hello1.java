@@ -6,5 +6,6 @@ public class Hello1 {
 		System.out.println("Hello!");
 		System.out.println("Github is cool!");
 	}
-
+	public void method() {
+	}
 }
